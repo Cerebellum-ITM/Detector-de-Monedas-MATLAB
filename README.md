@@ -2,6 +2,7 @@
 
 Programa realizado para el canal de  :video_camera: youtube [Cerebellum](https://youtu.be/qY5ukpjhsGc)
  en MATLAB.
+ 
 ![](CereTumV3P1.jpg) 
  
 [Documento PDF](DetectorDeMonedas.pdf).
