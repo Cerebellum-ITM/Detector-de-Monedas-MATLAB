@@ -108,11 +108,3 @@ for i = 1:length(Propiedades)
     end
 
 end
-
-%NombreImg = 'coin';
-%ExTn = '.jpg';
-%for i = 1:length(Propiedades)
-%    Coordenadas = Propiedades(i).BoundingBox;
-%    img_cortada = imcrop(imagen_original, Coordenadas);
-%    imwrite (img_cortada, strcat(NombreImg, num2str(i), ExTn))
-%end
